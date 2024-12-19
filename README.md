@@ -40,11 +40,10 @@ Migrations:
 
 Stores database migration files for managing schema changes.
 Technologies Used
-ASP.NET Core 7.0: Framework for building the Web API.
+ASP.NET Core 8.0: Framework for building the Web API.
 Entity Framework Core: ORM for database operations.
 SQL Server: Relational database for data persistence.
 JWT Authentication: For secure role-based access control.
-
 
 
 
